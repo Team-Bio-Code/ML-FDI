@@ -7,13 +7,13 @@ This is to ensure that the docker commands in the run.sh file execute smoothly.
 The run.sh file contains the following commands :
 
 > docker build -t fdi-ml -f Dockerfile.dockerfile .
-This file build a Docker image with the tag fdi-ml from the Dockerfile mentioned using the -f tag from the current path
+> This file build a Docker image with the tag fdi-ml from the Dockerfile mentioned using the -f tag from the current path
 
 > docker images
-This command shows the image that was built along with the information about the image
+> This command shows the image that was built along with the information about the image
 
 > docker run fdi-ml
-This command runs the image fdi-ml in a new container
+> This command runs the image fdi-ml in a new container
 
 Wait for the program to run, ignore the warnings while the results for each machine learning algorithm are being printed.
 
