@@ -1,4 +1,4 @@
-To run this project simply execute the shell script file run.sh with the following command from the project folder path (\yourlocalclonepath\mlfdi\): 
+To run this project, simply execute the shell script file 'run.sh' with the following command from the project folder path (\yourlocalclonepath\ML-FDI\): 
 
 > sh run.sh
 
