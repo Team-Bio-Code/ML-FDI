@@ -29,6 +29,6 @@ If you do not wish to run Docker and run python code instead follow the below st
 - Once all the libraries are downloaded, run the following command to execute the code
     > python mlfdi.py
 
-Note : Sometime the models might show results as 0.0, this might be due to data loss, if this occurs please re-run the code. 
+Note : Sometimes the models might show results as 0.0, this might be due to data loss, if this occurs please re-run the code. 
 
-Note : Please ignore the Warnings in the code
+Note : Please ignore the Warnings during running the code
