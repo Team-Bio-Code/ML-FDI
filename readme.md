@@ -1,6 +1,7 @@
 To run this project simply execute the shell script file run.sh with the following command from the project folder path (\yourlocalclonepath\mlfdi\): 
 
 > sh run.sh
+
 Make sure to download all the project files in a single directory by cloning the repository.
 This is to ensure that the docker commands in the run.sh file execute smoothly.
 
