@@ -1,8 +1,11 @@
+Prior to running the code, make sure to download all the project files in a single directory by cloning the repository.
+
+> Unzip the Dataset file named food-drug-dataset in the same directory as Dockerfile and Python code and 'run.sh' Shell Script or simply download the file from the link https://drive.google.com/file/d/1KxxmEPkrrdQqhA5K0a_ANjuuAFbIA6Bq/view?usp=sharing
+
 To run this project, simply execute the shell script file 'run.sh' with the following command from the project folder path (\yourlocalclonepath\ML-FDI\): 
 
 > sh run.sh
 
-Make sure to download all the project files in a single directory by cloning the repository.
 This is to ensure that the docker commands in the run.sh file execute smoothly.
 
 The run.sh file contains the following commands :
